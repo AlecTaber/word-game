@@ -4,7 +4,7 @@ import { Outlet } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
-
+// I am adding a comment here.
 function App() {
   return (
     <div className="flex-column justify-flex-start min-100-vh">
